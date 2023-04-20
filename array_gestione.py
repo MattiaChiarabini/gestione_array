@@ -43,3 +43,6 @@ def trova_minimo(vettore: np.ndarray)-> int:
             posizione_minimo=i
     return minimo
 print(trova_minimo(vettore))
+
+
+#da finire
